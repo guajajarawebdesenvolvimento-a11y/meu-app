@@ -30,7 +30,8 @@
     "web": {
       "output": "static",
       "favicon": "./assets/images/favicon.png",
-      "bundler": "metro"
+      "bundler": "metro",
+      "baseUrl": "/meu-app"
     },
     "plugins": [
       [
